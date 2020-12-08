@@ -1,0 +1,393 @@
+﻿@charset "UTF-8";
+@import url(font-awesome.min.css);
+@import url("http://fonts.googleapis.com/css?family=Lato:300,400");
+
+.my-sidebar {
+    margin-top: 0;
+}
+
+.icon-coffee {
+    color: white;
+}
+
+.txtbox-space {
+    padding-right:10em;
+}
+
+.txtbox2-space {
+    padding-right:12.5em;
+}
+
+.txtbox3-space {
+    padding-right:11em;
+}
+
+.txtbox4-space {
+    padding-right:7.5em;
+}
+
+.txtbox5-space {
+    padding-right:2em;
+}
+
+.txtbox6-space {
+    padding-right:3.5em;
+}
+
+.txtbox7-space {
+    padding-right:10.25em;
+}
+
+.txtbox8-space {
+    padding-right:.5em;
+}
+
+.txtbox9-space {
+    padding-right: 7em;
+}
+
+.txtbox10-space {
+    padding-right: 7.75em;
+}
+
+.txtbox11-space {
+    padding-right: 6em;
+}
+
+.txtbox12-space {
+    padding-right: 5.75em;
+}
+
+.txtbox13-space {
+    padding-right: 3.85em;
+}
+
+.txtbox14-space {
+    padding-right: 6.85em;
+}
+
+.txtbox15-space {
+    padding-right: 4em;
+}
+
+.txtbox16-space {
+    padding-right: 3.45em;
+}
+
+.txtbox17-space {
+    padding-right: 2.6em;
+}
+
+.txtbox18-space {
+    padding-right: 7.35em;
+}
+
+.txtbox19-space {
+    padding-right: 8.5em;
+}
+
+.txtbox20-space {
+    padding-right: 3.2em;
+}
+
+.txtbox21-space {
+    padding-right: 5.5em;
+}
+
+.txtbox22-space {
+    padding-right: 7.75em;
+}
+
+.txtbox23-space {
+    padding-right: 4.85em;
+}
+
+.space1 {
+    padding-right: 10em;
+}
+
+.space2 {
+    padding-right: 10.25em;
+}
+
+.space3 {
+    padding-right: 3em;
+}
+
+.space4 {
+    padding-right: 6em;
+}
+
+.space5 {
+    padding-right: 10.75em;
+}
+
+.space6 {
+    padding-right: 14em;
+}
+
+.space7 {
+    padding-right: 13em;
+}
+
+.space8 {
+    padding-right: 12em;
+}
+
+.space9 {
+    padding-right: 10.5em;
+}
+
+.space10 {
+    padding-right: 5em;
+}
+
+#navbar-logo {
+    height: 35px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.jumbotron {
+    background: inherit;
+}
+
+
+
+.jumbotron h1{
+    color: white;
+    text-align: center;
+}
+
+.jumbotron h2{
+    color: white;
+    text-align: center;
+}
+
+.jumbotron h3{
+    color: white;
+    text-align: center;
+}
+
+.jumbotron label {
+    color: white;
+    font-size:x-large;
+}
+
+.jumbotron strong {
+    color: white;
+    font-size:x-large;
+}
+
+.navbar-inverse {
+    margin-bottom: 0;
+    margin-top: 0;
+    background-color: black;
+}
+
+.dropdown-menu {
+    background-color: black;
+}
+
+.dropdown-menu li a {
+    color: white;
+}
+
+.body-background {
+    background-color: black;
+}
+
+.body-image {
+    background-image: url(/images/background.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    background-color: black;
+}
+
+.thumbnail {
+    background-color: black;
+}
+
+.btn-thumb {
+    background-color: black;
+}
+
+#nav-text {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    font-size: 20px;
+    padding-bottom: 0em;
+}
+
+.navbar-right {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    color: white;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-weight: bold;
+}
+
+h3 {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+h4 {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+.advertise1 {
+    color: white;
+    text-align: center;
+    margin-top: 5em;
+}
+
+.btn-merry {
+    background-color: black;
+    border-color: white;
+    border-width: 2px;
+    font-size: 20px;
+    margin-top: 1em;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+.panel-default {
+    background: inherit;
+    border: inherit;
+}
+
+.my-section {
+    margin-top: 0;
+    text-align: left;
+    color: white;
+    text-align: center;
+}
+
+.img-responsive {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: inherit;
+}
+
+#logmodal {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.modal-body {
+    background-color: black;
+    font-size: x-large;
+    text-align: center;
+    color: white;
+}
+
+.modal-header {
+    background-color: black;
+}
+
+.modal-footer {
+    background-color: black;
+    text-align: center;
+}
+
+#regmodal {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn-merry:hover {
+    color: black;
+    background-color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.about {
+    color: white;
+    text-align: left;
+    margin-top: 5em;
+}
+
+.my-images {
+    margin-top: 7%;
+}
+
+#cross {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    background: inherit;
+}
+
+i {
+    color: white;
+}
+
+.well {
+    background: inherit;
+}
+
+legend {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+}
+
+input {
+    color: black;
+}
+
+.color1 {
+    background-color: gray;
+}
+
+label {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.padding {
+    padding-left: 1em;
+}
+
+.carousel-inner {
+    position: center;
+    max-height: 500px
+}
+
+.fa-instagram {
+    color: white;
+}
+
+.btn-success {
+    background-color: #1D8348;
+}
